@@ -15,4 +15,4 @@ echo " I am gradute"
 echo "I am docter"
 echo "I live pune city"
 echo "ajdshsgs"
-
+echo "I am way"
